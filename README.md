@@ -1,5 +1,5 @@
 # In-Silico-Modification-of-a-BRAF-Inhibitor
-Objective
+#Objective
 This project focuses on the in silico modification of the FDA-approved drug Dabrafenib, which targets the BRAF V600E mutation—a common driver in melanoma. The aim is to enhance Dabrafenib’s binding affinity, selectivity, and pharmacokinetic properties while minimizing toxicity and off-target effects. By editing the ligand structure and analyzing ADMET and toxicity profiles, the project seeks to optimize the drug for improved therapeutic efficacy and resistance management.
 
 Background
